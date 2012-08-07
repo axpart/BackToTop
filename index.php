@@ -7,7 +7,12 @@
 
 <body>
 
-<h1>A very very very long paragraph</h1>
+<ul>
+	<li>Full documentation on <a href="http://www.myjqueryplugins.com/BackToTop">MyjQueryPlugins.com/BackToTop</a></li>
+	<li>Live demonstration on <a href="http://www.myjqueryplugins.com/BackToTop/demo">BackToTop demonstration page</a></li>
+</ul>
+<h1>BackToTop plugin</h1>
+<h2>A very very very long paragraph</h2>
 <p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium sagittis dui, non consectetur tortor tempus vitae. Phasellus quam dui, tincidunt sit amet consequat sit amet, porta ut felis. Proin sapien felis, porta sed ornare a, lacinia sed est. Nulla facilisi. Donec quis ligula nec nunc eleifend luctus interdum at nisl. Aliquam semper pellentesque fermentum. Aenean non erat ligula. Maecenas egestas enim eu ante varius venenatis. Sed imperdiet iaculis turpis, sed gravida enim ultricies id. Vivamus placerat dolor sit amet nulla fringilla fringilla.
